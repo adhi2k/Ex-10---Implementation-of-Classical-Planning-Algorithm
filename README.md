@@ -4,11 +4,15 @@
 
 **REG NO: 2305002001**
 # Algorithm or Steps Involved:
-Define the initial state
-Define the goal state
-Define the actions
-Find a plan to reach the goal state
-Print the plan
+Step 1: Define the initial state
+
+Step 2: Define the goal state
+
+Step 3: Define the actions
+
+Step 4: Find a plan to reach the goal state
+
+Step 5: Print the plan
 
 ### Example - 1
 ```
