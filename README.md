@@ -1,4 +1,4 @@
-#ExpNo:10 Implementation of Classical Planning Algorithm 
+# ExpNo:10 Implementation of Classical Planning Algorithm 
 
 NAME:  
 REG NO:
