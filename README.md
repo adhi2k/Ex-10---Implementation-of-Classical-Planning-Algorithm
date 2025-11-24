@@ -1,4 +1,4 @@
-# ExpNo:10 Implementation of Classical Planning Algorithm 
+# Exp No: 10 Implementation of Classical Planning Algorithm 
 
 **NAME:  ADHITHYA K**
 
@@ -100,5 +100,5 @@ print(plan)
 
 ### RESULT
 
-Thus the program to implement Classical Planning Algorithm has been executed successfully.
+Thus, The program to implement Classical Planning Algorithm has been executed successfully.
 
